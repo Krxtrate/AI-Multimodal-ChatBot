@@ -75,7 +75,7 @@ This project combines conversational AI, PDF document understanding, and AI-powe
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/AI-Multimodal-Assistant.git
+git clone https://github.com/Krxtrate/AI-Multimodal-Assistant.git
 cd AI-Multimodal-Assistant
 ```
 
@@ -87,7 +87,6 @@ python -m venv venv
 # Windows
 venv\Scripts\activate
 
-pip install -r requirements.txt
 ```
 
 Create a `.env` file:
